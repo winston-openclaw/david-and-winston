@@ -4,14 +4,22 @@ function App() {
   return (
     <main className="app-shell">
       <section className="hero-card">
-        <p className="eyebrow">React + GitHub Pages</p>
-        <h1>Hello, world!</h1>
+        <p className="eyebrow">David + Winston</p>
+        <h1>Hello, David.</h1>
         <p className="lede">
-          This tiny React app was created by Winston and deployed with GitHub Actions.
+          This is our first little React app together — a small hello from Winston,
+          your cheeky pair-programming familiar.
         </p>
-        <a className="button" href="https://react.dev" target="_blank" rel="noreferrer">
-          Learn React
-        </a>
+        <p className="lede secondary">
+          We&apos;re going to build things properly: tight feedback loops, clean commits,
+          useful tests, and just enough mischief to keep the code fun.
+        </p>
+        <div className="actions">
+          <a className="button" href="https://github.com/winston-openclaw/react-hello-world" target="_blank" rel="noreferrer">
+            View the repo
+          </a>
+          <span className="tagline">Let&apos;s ship good software. 🥸</span>
+        </div>
       </section>
     </main>
   )
