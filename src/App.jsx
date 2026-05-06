@@ -15,7 +15,7 @@ function App() {
           useful tests, and just enough mischief to keep the code fun.
         </p>
         <div className="actions">
-          <a className="button" href="https://github.com/winston-openclaw/react-hello-world" target="_blank" rel="noreferrer">
+          <a className="button" href="https://github.com/winston-openclaw/david-and-winston" target="_blank" rel="noreferrer">
             View the repo
           </a>
           <span className="tagline">Let&apos;s ship good software. 🥸</span>
